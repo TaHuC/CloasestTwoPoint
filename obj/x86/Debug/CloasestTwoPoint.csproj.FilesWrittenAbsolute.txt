@@ -1,0 +1,5 @@
+/Users/TaHuC/Projects/CloasestTwoPoint/CloasestTwoPoint/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/TaHuC/Projects/CloasestTwoPoint/CloasestTwoPoint/bin/Debug/CloasestTwoPoint.exe.mdb
+/Users/TaHuC/Projects/CloasestTwoPoint/CloasestTwoPoint/bin/Debug/CloasestTwoPoint.exe
+/Users/TaHuC/Projects/CloasestTwoPoint/CloasestTwoPoint/obj/x86/Debug/CloasestTwoPoint.exe
+/Users/TaHuC/Projects/CloasestTwoPoint/CloasestTwoPoint/obj/x86/Debug/CloasestTwoPoint.exe.mdb
